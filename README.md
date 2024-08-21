@@ -39,7 +39,7 @@ To run the project locally, follow these steps:
 ## Tech Stack
 - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white): Sampling the Kaggle wine reviews data
 - ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54): Creating vector embeddings
-- ![Pinecone](https://img.shields.io/badge/Pinecone-ffffff?style=flat&logo=pinecone&logoColor=black): Storing vector embeddings
+- ![Pinecone](https://img.shields.io/badge/Pinecone-ffffff?style=flat&logo=pinecone&logoColor=black): Storing vector embeddings & similarity searches
 - ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white): UI components
 - ![OpenAI](https://img.shields.io/badge/OpenAI-00A67E.svg?style=flat&logo=openai&logoColor=white): API calls & generating chat responses
 - ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) and ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB): Functionalities and routing

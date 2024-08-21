@@ -1,0 +1,602 @@
+[
+  {
+    "country": "US",
+    "description": "A good everyday Pinot Noir, tart in acids and with some edgy tannins. But it has the variety's nice, silky texture, with rich cherry, rosehip tea and sandalwood flavors.",
+    "price": 18.0,
+    "title": "San Simeon 2009 Pinot Noir (Monterey)"
+  },
+  {
+    "country": "France",
+    "description": "Round and fruity, this is cleanly made, with its soft character coming from the ripe strawberry fruit. It's a good candidate to pair with a fruit dessert or to serve as an ap\u00e9ritif.",
+    "price": 10.0,
+    "title": "Veuve du Vernay NV Brut Ros\u00e9 Sparkling (Vin Mousseux)"
+  },
+  {
+    "country": "US",
+    "description": "Full-bodied and dry, this has a very deep, saturated color and aromas of spicy oak, raspberries and cherries. With velvety texture, fine tannins and a lingering finish, it's well structured and youthful tasting. It should improve through 2017.",
+    "price": 48.0,
+    "title": "Charles B. Mitchell 2012 Estate Grand Reserve Red (Fair Play)"
+  },
+  {
+    "country": "France",
+    "description": "This producer's style is for rich wines and this is no exception. With its depth of fruit and ripe apples and lemon, it is both crisp and full. The wine has some wood aging not for the flavor, more for the open effect. Drink the wine now.",
+    "price": 35.0,
+    "title": "Florian Roblin 2015 Coul\u00e9e des Moulins Sauvignon Blanc (Coteaux du Giennois)"
+  },
+  {
+    "country": "France",
+    "description": "This attractive, lightly honeyed wine has apple and fresh pear flavors. Fresh, fruity and crisp, it finishes with a youthful lift that suggests it will be better from mid-2016.",
+    "price": 18.0,
+    "title": "Vignerons de Buxy 2013 Buissonnier  (C\u00f4te Chalonnaise)"
+  },
+  {
+    "country": "France",
+    "description": "This Sauvignon Blanc-dominated wine has light wood aging to smooth out its herbal character and bring out the richer S\u00e9millon. Spice, toast and crisp acidity are filled out with the ripeness of the vintage. Drink this from early 2017.",
+    "price": 13.0,
+    "title": "Cheval Quancard 2015 Cuv\u00e9e Cl\u00e9mence  (Entre-Deux-Mers)"
+  },
+  {
+    "country": "Israel",
+    "description": "Aromas of blackberry, fennel bulb and smoke set the scene for flavors of cherry, raspberry, chocolate and tobacco leaf. Mellow but ever-apparent tannins ply the palate alongside a strong bolt of acidity that tapers off into a pomegranate-imbued finish.",
+    "price": 80.0,
+    "title": "Or Haganuz 2014 French Blend Red (Galilee)"
+  },
+  {
+    "country": "US",
+    "description": "A nice racy version, with lots of petroleum and peach character shot through with notes of wet stone. Ends on a lingering grapefruit peel tone. Try with sweet and sour pork. Drink now.",
+    "price": 16.0,
+    "title": "Red Tail Ridge 2008 Semi-Dry Riesling (Finger Lakes)"
+  },
+  {
+    "country": "US",
+    "description": "Very ripe, showing rich, pure varietal flavors of blackberries, cherries, ground pepper, grilled meat, sweet sandalwood and spices. One hundred percent Syrah, it's balanced with great acidity. Really smooth and delicious, and a crowd pleaser. Could develop over the next 4\u20135 years.",
+    "price": 55.0,
+    "title": "Qup\u00e9 2009 Sawyer Lindquist Vineyard Syrah (Edna Valley)"
+  },
+  {
+    "country": "US",
+    "description": "Whatever the grape varieties in this wine are, and the winery doesn't identify them, they're of the full-bodied type, like Petite Sirah or Zinfandel. It's an easy-drinking wine, soft and rich in cherries. Good for everyday fare, like burgers and tacos.",
+    "price": 13.0,
+    "title": "Masked Rider 2011 Gunsmoke Red (California)"
+  },
+  {
+    "country": "US",
+    "description": "This vineyard-designate opens in inviting, perfumed aromatics of apple blossom and honeysuckle. On the palate it reveals substantial depth and breadth, the oak characteristic quite caramelized. Meaty in lemon zest and meringue, it provides a weight of body that's nicely balanced against stony minerality and traces of nutmeg.",
+    "price": 55.0,
+    "title": "Walt 2014 Sangiacomo Vineyard Chardonnay (Sonoma County)"
+  },
+  {
+    "country": "US",
+    "description": "Impenetrably dark in color, this potent wine marries black fruit to ample barrel accents of smoke and char. Though aged in just 5% new French oak, those dark scents and flavors permeate the wine. It's a style with broad appeal.",
+    "price": 30.0,
+    "title": "Abacela 2014 Barrel Select Malbec (Umpqua Valley)"
+  },
+  {
+    "country": "US",
+    "description": "From organically grown grapes, this wine is barrel-fermented in French oak. On the palate, it reflects that time in barrel, conveying a mix of spicy oak, exotic Asian pear and nutmeg. Well-integrated and light, it offers lilting minerality.",
+    "price": 28.0,
+    "title": "Madonna Estate 2012 Chardonnay (Carneros-Napa Valley)"
+  },
+  {
+    "country": "Portugal",
+    "description": "A perfumed, juicy wine with delicious red fruits and well adjusted with acidity. There are good, dry tannins as well, suggesting this will make a good food wine. The aftertaste has chewy structure and acidity.",
+    "price": 10.0,
+    "title": "Quinta do Casal Branco 2004 The Cork Grove Castel\u00e3o and Touriga Nacional Red (Ribatejano)"
+  },
+  {
+    "country": "US",
+    "description": "This Rh\u00f4ne blend offers dried red cherry, boysenberry and rose petals on the inviting nose. The Grenache is a powerful player, contributing a rosewater touch to the palate, alongside cranberry, caramel and a touch of cola.",
+    "price": 25.0,
+    "title": "Cass 2014 G-S-M (Paso Robles)"
+  },
+  {
+    "country": "US",
+    "description": "Perhaps an unrepresentative bottle (just one was submitted), but this 2008 reserve was muddy in the glass and flabby in the mouth. Oaky and buttery to an extreme degree, it had lost all freshness and fruit.",
+    "price": 25.0,
+    "title": "Hogue 2008 Reserve Chardonnay (Yakima Valley)"
+  },
+  {
+    "country": "Argentina",
+    "description": "elon and peach aromas create a bouquet that's nondescript. This feels solid in the mouth, with acidic cut. Flavors of nectarine run sweet, while the finish takes on a cloying feel as it delivers thick melon and peach flavors. Drink now or wait for the 2013 vintage.",
+    "price": 12.0,
+    "title": "Fabre Montmayou 2012 Phebus Ros\u00e9 Malbec (Mendoza)"
+  },
+  {
+    "country": "Spain",
+    "description": "Flat doughy aromas smell cooked and stewy. In the mouth, this shows pointy acidity and overripe fruit flavors. Raisiny flavors are stewy on the finish.",
+    "price": 18.0,
+    "title": "Bodegas Olarra 2014 Cl\u00e1sico Crianza  (Rioja)"
+  },
+  {
+    "country": "US",
+    "description": "An extroverted burst of meaty, minerally and fruity flavors defines this medium-bodied, firm-textured and concentrated wine. Imagine prosciutto wrapped around canteloupe for the flavor, plus vivid acidity and a lingering, almost smoky finish.",
+    "price": 18.0,
+    "title": "Sol Rouge 2014 Ros\u00e9 (Lake County)"
+  },
+  {
+    "country": "France",
+    "description": "This is opulent, but with restraint. The fruit is rich, black and delicious. Touches of spice and wood are present, lending complexity to the ripe fruits and balanced tannins. Impressive.",
+    "price": 80.0,
+    "title": "Ch\u00e2teau Branaire-Ducru 2005  Saint-Julien"
+  },
+  {
+    "country": "US",
+    "description": "Crunchy and somewhat bitter, this has tight citrus rind flavors and a whiff of vanilla. A small percentage of the blend spent a bit of time in neutral oak.",
+    "price": 25.0,
+    "title": "Yamhill Valley 2012 Pinot Blanc (McMinnville)"
+  },
+  {
+    "country": "US",
+    "description": "Dry, crisp and herbal, with tobacco, cola, red licorice and tannic cherryskin flavors. A silky, polished Pinot for early drinking.",
+    "price": 18.0,
+    "title": "Kenwood 2008 Pinot Noir (Russian River Valley)"
+  },
+  {
+    "country": "Portugal",
+    "description": "This simple, fruity, red-berry-flavored wine has bright acidity along with soft tannins. It's a great barbecue style of wine, fruity and ready to go with grilled meat.",
+    "price": 12.0,
+    "title": "Po\u00e7as 2014 Coroa d'Ouro Red (Douro)"
+  },
+  {
+    "country": "France",
+    "description": "Ripe plum, dark coffee and spice flavors join the firm tannins in this intense wine. It has a strong structure that needs to soften to allow the juicy black-currant flavor to surface. Give it 4\u20135 years.",
+    "price": 37.0,
+    "title": "Ch\u00e2teau Tour Seran 2010  M\u00e9doc"
+  },
+  {
+    "country": "Italy",
+    "description": "Smooth and juicy, this opens with aromas of wild berry, blue flower and a whiff of grilled herb. The soft, succulent palate doles out black cherry, chopped mint, cinnamon and a hint of mocha alongside dusty tannins and bright acidity. It's rather straightforward but delicious.",
+    "price": 25.0,
+    "title": "Principe Corsini 2013 Le Corti  (Chianti Classico)"
+  },
+  {
+    "country": "Italy",
+    "description": "Fruity and exuberant, it's loaded with tropical fruit, yellow peach, apricot and honeydew melon sensations. The round, juicy palate is energized by fresh acidity.",
+    "price": 11.0,
+    "title": "Corm\u00f2ns 2013 Sauvignon (Collio)"
+  },
+  {
+    "country": "US",
+    "description": "Roasted macadamia, toasted coconut and baked apple scents lead the nose of this wine from Santa Barbara County's first commercial vineyard. The palate is broad to start, with lemon curd, pear and almond flavors; but it centers on a flinty mineral character as it finishes.",
+    "price": 40.0,
+    "title": "Byron 2014 Nielson Vineyard Chardonnay (Santa Maria Valley)"
+  },
+  {
+    "country": "Italy",
+    "description": "This opens with aromas of ripe black plum, scorched soil, toasted oak and roasted coffee bean. The dense ripe palate offers dried cherry, clove and espresso with chewy tannins. Drink through 2019 to catch the remaining fruit.",
+    "price": 90.0,
+    "title": "Mocali 2011 Riserva  (Brunello di Montalcino)"
+  },
+  {
+    "country": "Chile",
+    "description": "Opens with heavy aromas of earth, compost and baked fruit. The palate has a corresponding heaviness and sweet, roasted, buttery black-fruit flavors. Sticky and oaky on the finish, with lasting sweetness and some bitterness. Chunky and clunky, but not a bad wine.",
+    "price": 15.0,
+    "title": "William Cole 2009 Columbine Special Reserve Pinot Noir (Casablanca Valley)"
+  },
+  {
+    "country": "US",
+    "description": "A cedary, slightly chemical aroma masks the fruit, and it is barrel flavors, more than berry flavors, that flood the palate. Overall it's a smooth, modestly-proportioned Merlot that's ready for near-term drinking.",
+    "price": 14.0,
+    "title": "Preston 2007 Estate Grown Merlot (Columbia Valley (WA))"
+  },
+  {
+    "country": "Chile",
+    "description": "Dark and dense up front, with leathery, beefy aromas that suggest weight and size. The palate is indeed round and full, while the flavors are herbal and savory as you dig through blackberry and fig. Hefty, a little hot and a bit baked on the finish.",
+    "price": 16.0,
+    "title": "De Martino 2008 Legado Reserva Cabernet Sauvignon (Maipo Valley)"
+  },
+  {
+    "country": "Italy",
+    "description": "This opens with a pretty garnet color and subtle aromas of spice, cr\u00e8me de cassis, leather and tobacco. The wine shows compact lines with tight structure, bright acidity and a lingering note of smoky ash on the close. The style is traditional, sour and bright.",
+    "price": 65.0,
+    "title": "Gianni Brunelli 2008 Le Chiuse di Sotto  (Brunello di Montalcino)"
+  },
+  {
+    "country": "Spain",
+    "description": "Yeasty aromas are devoid of fruit, commitment and minerality, and instead smell oddly floral and unconvincing. A waxy, wan palate and oaky flavors of clove finish with resiny, pushy spice notes. This tastes overly oaky and resiny, like the winery's Rioja white called La Capellan\u00eda but without the goods.",
+    "price": 60.0,
+    "title": "Pazo de Barrantes 2012 La Comtesse Albari\u00f1o (R\u00edas Baixas)"
+  },
+  {
+    "country": "US",
+    "description": "This wine has a light delicacy that provides an ethereal quality to its wispy layers of wild strawberry, dried herb and spearmint. Bright and crisp, it finishes smoothly with buoyant acidity.",
+    "price": 40.0,
+    "title": "Bouchaine 2013 Bacchus Collection Swan Estate Vineyard Pinot Noir (Carneros)"
+  },
+  {
+    "country": "US",
+    "description": "Rich orange, lemon and citrus spices lead this Viognier from Page Springs. On the palate, it's fuller bodied, with lots of spice and citrus to balance out the honeyed fruit. Pair with cheese, fruit and spicy cuisine.",
+    "price": 30.0,
+    "title": "Page Springs 2007 La Serrana Viognier (Cochise County)"
+  },
+  {
+    "country": "France",
+    "description": "On the slopes above the eastern Bordeaux town of Sainte-Foy, this vineyard produces some fine wines. Aged in new wood, the wine is rich in tannins, complex and serious. Bright red fruits and a firm structure both promise aging. Drink from 2018.",
+    "price": 20.0,
+    "title": "Ch\u00e2teau Bellevue Peycharneau 2013  Sainte-Foy Bordeaux"
+  },
+  {
+    "country": "US",
+    "description": "From a cool-climate pocket within the larger Russian River Valley where even sparkling wine grapes thrive, this Pinot is muted somewhat, its flavors darker and oakier than expected, earthy yet shy in spice",
+    "price": 25.0,
+    "title": "Ron Rubin 2012 Pinot Noir (Green Valley)"
+  },
+  {
+    "country": "Argentina",
+    "description": "Tan in color, with dry lightly oxidized aromas as well as notes of white pepper and peach pit, this white Pinot Noir is low on fruit and feels tight, acidic and raw. Tart apple and sour lemon flavors include a note of fino Sherry, while this closes with a steady beam of sharp acidity.",
+    "price": 20.0,
+    "title": "Aniello 2015 Soil Blanco de Pinot Noir (Patagonia)"
+  },
+  {
+    "country": "US",
+    "description": "Sanguine, dense and thick, this offers an intriguing nose of black pepper and garrigue that conveys a sense of adventure and romance. Its leathery texture never becomes overly weighty, though the fruit and oak are plenty generous. An ideal partner for an equally beautiful steak, its structure suggests time in the cellar will only add to the experience; drink through 2022.",
+    "price": 150.0,
+    "title": "B Cellars 2012 Blend 26 Cabernet Sauvignon (Oakville)"
+  },
+  {
+    "country": "France",
+    "description": "Ripe and full, this tempers the natural richness of Volnay with the restraint of tannins and layers of wood. The red fruit flavors are given a boost by the young acidity that needs time to calm down. Age for 3\u20134 years.",
+    "price": 43.0,
+    "title": "Domaine Jean Monnier et Fils 2010  Volnay"
+  },
+  {
+    "country": "Italy",
+    "description": "This wine leads with new leather, dark spice, iris and eucalyptus scents. Its linear, slender palate offers sour cherry, pomegranate, white pepper and ground clove\u2014flavors that are held taut by fine-grained tannins and racy acidity.",
+    "price": 65.0,
+    "title": "Cascina delle Rose 2014 Tre Stelle  (Barbaresco)"
+  },
+  {
+    "country": "US",
+    "description": "Apple peels, squeezed lime, rain on cement, jicama and Asian-pear aromas show on the crisp yet rounded nose of this bottling by actress Drew Barrymore. The palate is quite inviting with broad apple flavors, offering just enough texture and acidity to keep all sorts of wine lovers interested.",
+    "price": 18.0,
+    "title": "Barrymore 2015 Pinot Grigio (California)"
+  },
+  {
+    "country": "US",
+    "description": "Too sweet by far, with a white sugary finish to the pineapple and pear flavors. Crisp acidity helps to provide a framework of balance, but the sweetness really feeds into the perception that California white wines have residual sugar.",
+    "price": 25.0,
+    "title": "Arger-Martucci 2006 Viognier (Russian River Valley)"
+  },
+  {
+    "country": "US",
+    "description": "Fans of oaky wines will like this one for its showy butter and vanilla aromas, flavors full of caramel, butter and vanilla, and almost-thick texture.",
+    "price": 33.0,
+    "title": "Chacewater 2013 Teal Bartolucci Vineyards Big Valley Ranch Organically Grown Grapes Chardonnay (Lake County)"
+  },
+  {
+    "country": "France",
+    "description": "This ripe, complex wine offers a delicate combination of apple, lemon and honey, with a mineral texture. Balanced already although likely to age well, it is full of fruit, with a more steely texture at the end. Drink now for the fruit, but it will be better to wait until 2018.",
+    "price": 16.0,
+    "title": "Domaine de Vaugondy 2015 Sec  (Vouvray)"
+  },
+  {
+    "country": "Italy",
+    "description": "Attractive aromas of red berry and blue flower lead the nose on this bright wine. On the palate, notes of beet and mint accent a core of wild strawberry and crunchy red cherry. It's savory and easy drinking thanks to fresh acidity and sleek tannins.",
+    "price": 17.0,
+    "title": "Cantina Produttori San Michele Appiano 2013 Pinot Nero (Alto Adige)"
+  },
+  {
+    "country": "US",
+    "description": "Sweet, soft and simple, this has candied lemon and pineapple flavors.",
+    "price": 7.0,
+    "title": "ForestVille 2010 Riesling (California)"
+  },
+  {
+    "country": "US",
+    "description": "Tastes like fruit-based syrup, with cherry and spice flavors. Lacks vivacity.",
+    "price": 28.0,
+    "title": "Pomar Junction 2008 Merlot (Paso Robles)"
+  },
+  {
+    "country": "US",
+    "description": "Blended with 10% Viognier, this wine brings notes of flowers and peach while showing little oak influence. A touch of residual sugar sweetens the finish.",
+    "price": 20.0,
+    "title": "Cascade Ridge 2012 Chardonnay (Columbia Valley (WA))"
+  },
+  {
+    "country": "US",
+    "description": "Some appealing floral highlights rub against flavors of orange crush, cherry soda and toasted cracker. This young wine seems structured for early drinking.",
+    "price": 22.0,
+    "title": "Left Coast Cellars 2015 Ros\u00e9 of Pinot Noir (Willamette Valley)"
+  },
+  {
+    "country": "France",
+    "description": "This Blanquette (made with 90% Mauzac) offers a bouquet full of bright crisp red apple and melon core. The texture is creamy with fine bubbles and medium acidity, and the palate is loaded with satisfying sweet citrus rind and toasty brioche flavors. Drink now.",
+    "price": 20.0,
+    "title": "Ch\u00e2teau Rives-Blanques 2008 Brut Sparkling (Blanquette de Limoux)"
+  },
+  {
+    "country": "Australia",
+    "description": "Minty and raisiny on the nose, with Port-like elements of dried fruit and high (15.0%) alcohol. Still, it shows the variety's trademark delicate structure and silky texture.",
+    "price": 45.0,
+    "title": "Jasper Hill 2007 Cornella Vineyard Grenache (Heathcote)"
+  },
+  {
+    "country": "Spain",
+    "description": "Plum, raspberry and animal fur aromas settle with airing. Rubbery, grabby tannins create a hard-as-rocks mouthfeel, while blackberry and cassis flavors turn toasty on the finish. This is hard on the palate straight up; holding through 2016 can only help.",
+    "price": 20.0,
+    "title": "Telmo Rodr\u00edguez 2012 Gazur  (Ribera del Duero)"
+  },
+  {
+    "country": "France",
+    "description": "This wine is named \u201cthe three brothers\u201d after the owner's siblings. It is a tight, mineral-driven wine, although the citrus and apple fruit flavors are not far behind. With acidity and spice, the wine is rich and ready to drink.",
+    "price": 18.0,
+    "title": "Domaine des Aspras 2015 Les Trois Fr\u00e8res Ros\u00e9 (C\u00f4tes de Provence)"
+  },
+  {
+    "country": "US",
+    "description": "Rustic and simple, this has some decent cherry-berry flavors. Drink up.",
+    "price": 12.0,
+    "title": "Cambridge & Sunset NV The Grass Cutter Red (California)"
+  },
+  {
+    "country": "Austria",
+    "description": "Fresh pear and lively yeast, peppery watercress and fresh citrus create a lively, appetizing nose. The palate bristles with wonderfully tingling citrus freshness that highlights all the aromatic aspects in turn: the fruitiness, the ripeness, the savory backdrop of yeast and the light-footed but concentrated core. This is still very young but so ready and utterly irresistible, yet with the mileage to age. Don't drink too quickly\u2014you'll miss the chance of savoring the peppery aftertaste.",
+    "price": 31.0,
+    "title": "Emmerich Knoll 2014 Ried Kreutles Federspiel Gr\u00fcner Veltliner (Wachau)"
+  },
+  {
+    "country": "US",
+    "description": "Warm aromas of red cherries, star anise and cinnamon greet the nose with inviting brown spice scents on this entry-level bottling. Cinnamon, cranberry and black plum show on the palate, along with pencil-lead minerality and a tart plum-skin finish.",
+    "price": 14.0,
+    "title": "Hahn 2014 Pinot Noir (Monterey County)"
+  },
+  {
+    "country": "US",
+    "description": "Don't confuse this with the winery's regular Riesling, which is off-dry. This is their dry bottling, and it's a superior wine. Shows vital, crisp acidity that makes the mouth water, then follows up with rich citrus, green apple, Asian pear and peppery spice flavors that are tantalizing and complex. One of the more compelling dry Rieslings out there, but the 100-case production will make it hard to find.",
+    "price": 18.0,
+    "title": "Koehler 2009 Dry Riesling (Santa Ynez Valley)"
+  },
+  {
+    "country": "US",
+    "description": "Very ripe and almost sweet in jammy, pie-filling cherries and raspberries, with a rich seasoning of cinnamon, brown sugar and cocoa. But it's technically dry, and has a crispness from fine Arroyo Seco acidity. Drink now.",
+    "price": 35.0,
+    "title": "J. Lohr 2007 Fog's Reach Vineyard Pinot Noir (Arroyo Seco)"
+  },
+  {
+    "country": "Argentina",
+    "description": "Plum and berry aromas are mild and a bit metallic. A drawing, grapy mouthfeel and generic but solid flavors of blackberry and blueberry finish with a touch of oak. This doesn't have a ton of character, but it's balanced and tasty.",
+    "price": 10.0,
+    "title": "Domaine Le Billoud 2011 Barrica 29 Malbec (Mendoza)"
+  },
+  {
+    "country": "Austria",
+    "description": "Heinrich's Blaufr\u00e4nkisch is a concentrated and deeply tannic wine. It shows a mineral texture to go with the black plums and powerful structure. Intended for long-term aging, its acidity and dry core are already promising. Keep 3\u20134 years. Glass stopper.",
+    "price": 45.0,
+    "title": "Gernot and Heike Heinrich 2009 Blaufr\u00e4nkisch (Leithaberg)"
+  },
+  {
+    "country": "New Zealand",
+    "description": "High toned red fruit, cola, and baking spice notes are revealed after some vigorous swirling in this initially shy wine. Tightly wound tannins on the palate are balanced by a good lick of acidity and fairly prominent oak.",
+    "price": 35.0,
+    "title": "Nga Waka 2015 Three Canoes Lease Block Pinot Noir (Martinborough)"
+  },
+  {
+    "country": "Spain",
+    "description": "With solid berry and plum aromas, the bouquet is friendly and nice. This is fresh and fruity in style, with hints of leather and chocolate accenting core berry and plum flavors. An earthy, warm finish with leathery notes is the final act.",
+    "price": 28.0,
+    "title": "Bodegas Navarro L\u00f3pez 2010 Premium 1904 Tempranillo-Cabernet Sauvignon (Vino de la Tierra de Castilla)"
+  },
+  {
+    "country": "France",
+    "description": "This seems prematurely evolved with its lifted, kerosene-like whiff on the nose, but is no less pleasant for that. Ripe stone fruit melds into a slick, oily palate guided by a seam of bright, lemony freshness. The finish is dry and bright, and flavors fill the mouth long after the last sip.",
+    "price": 17.0,
+    "title": "Antoine Molt\u00e8s & Fils 2014 Tradition Riesling (Alsace)"
+  },
+  {
+    "country": "US",
+    "description": "Sugary, volatile, with flavors of prune and brown sugar. No finesse at all.",
+    "price": 40.0,
+    "title": "Belle Vall\u00e9e 2005 Port Pinot Noir (Willamette Valley)"
+  },
+  {
+    "country": "US",
+    "description": "Good concentration and clear varietal flavors mark this excellent Washington Mourv\u00e8dre. The mixed red fruits are well integrated, with a strong vein of mineral, and a finishing wash of vanilla, coffee and chocolate. Lots of barrel flavors to be sure, but the fruit can take it.",
+    "price": 35.0,
+    "title": "Robert Ramsay 2009 McKinley Springs Vineyard Mourv\u00e8dre (Horse Heaven Hills)"
+  },
+  {
+    "country": "France",
+    "description": "Tannins, acidity, black fruit, everything is in its right place in this wine. It has the structure of the vintage, with a series of dry, smoky bacon flavors, the weight apparent.",
+    "price": 15.0,
+    "title": "Georges Duboeuf 2010 Belles Grives  (Morgon)"
+  },
+  {
+    "country": "France",
+    "description": "In the Boissonneau family since 1839, this southern Entre-Deux-Mers vineyard gives a crisp, herbal wine with light fruit and attractive acidity. It has lemon and grapefruit flavors, bright with a crisp aftertaste. Drink now.",
+    "price": 20.0,
+    "title": "Ch\u00e2teau de la Vieille Tour 2016  Bordeaux Blanc"
+  },
+  {
+    "country": "US",
+    "description": "This is a little raw and acidic in texture, with a trace of underripeness. But it passes the basic Pinot test, boasting a silky texture and good raspberry and cherry flavors.",
+    "price": 30.0,
+    "title": "River Rock 2010 Pinot Noir (Russian River Valley)"
+  },
+  {
+    "country": "Italy",
+    "description": "Nero d'Avola and Frappato are blended to create a light and fragrant wine with pretty layers of berry fruit and almond paste. It's an easy and fresh wine that works well for everyday consumption.",
+    "price": 19.0,
+    "title": "Valle dell'Acate 2005  Cerasuolo di Vittoria"
+  },
+  {
+    "country": "US",
+    "description": "This needs some breathing time to soften its rough edges. Herbal notes compete with black raspberry fruit. Some spicy highlights lead into a tannic finish. The pieces are there but it needs time to flesh out a bit more.",
+    "price": 20.0,
+    "title": "Brella 2009 Pinot Noir (Oregon)"
+  },
+  {
+    "country": "US",
+    "description": "100% Cabernet Sauvignon from Wallula Vineyard, this brooding wine screams of the Horse Heaven Hills with notes of dusty earth, black currant, and bittersweet chocolate. It's tightly coiled and largely about structure with its firm tannins supporting concentrated cherry flavors. Needs time to come into its own but has the stuffing to lay down for a decade or more.",
+    "price": 80.0,
+    "title": "Den Hoed 2009 Andreas Cabernet Sauvignon Wallula Vineyard Cabernet Sauvignon (Horse Heaven Hills)"
+  },
+  {
+    "country": "Greece",
+    "description": "A rich nose of clove, tea, mint and cedar start this red from Greece. The palate offers clean bursts of cedar, spice and red currant. Fresh and light, the wine is a good house red.",
+    "price": 21.0,
+    "title": "Koutsoyiannopoulos 2006 Red (Santorini)"
+  },
+  {
+    "country": "France",
+    "description": "This is a bright, fruity, rounded wine with a soft texture. It's full and ripe, with melon and green plum notes, plus a touch of bitterness on the finish.",
+    "price": 20.0,
+    "title": "Ch\u00e2teau du Taillan 2011 La Dame Blanche  (Bordeaux Blanc)"
+  },
+  {
+    "country": "US",
+    "description": "This is the winery's Meritage red, although with 75% Cabernet Sauvignon they could have bottled it as that variety. It's nearly always Sebastiani's best Bordeaux-style wine, but the '05 is something of a letdown from past vintages. It's elegantly structured and nicely flavored, with subtle currant, cherry, olive and smoke flavors, but has a bitter taste throughout.",
+    "price": 35.0,
+    "title": "Sebastiani 2005 Secolo Red Wine Red (Sonoma County)"
+  },
+  {
+    "country": "Italy",
+    "description": "Giacosa Fratelli (to be distinguished from the venerable house of Bruno Giacosa) tends to make good, solid wines but never anything really earth shattering. This proved to be one of his best, a lovely nose of dark fruit, chocolate, soy and smoked meat. Quite soft on the palate, but rich and layered,and although it showed a touch of mid palate hollowness, the finish was good if somewhat chunky. Needs 3-5 years to really come round.",
+    "price": 50.0,
+    "title": "Giacosa Fratelli 2003 Bussia  (Barolo)"
+  },
+  {
+    "country": "Greece",
+    "description": "Grapefruit, flowers and peach aromas and flavors are the hallmarks of this distinctive white. The wine offers clean fruit flavors and a soft finish. Good with seafood and fruit salads.",
+    "price": 16.0,
+    "title": "Manolesaki 2012 Malagouzia Malagousia (Drama)"
+  },
+  {
+    "country": "Greece",
+    "description": "The alluring perfume of Traminer leads on this pretty wine, whose subtle and refreshing lemon/citrus flavors are delivered with a touch of flowers. Though a bit lean, the wine has a nice fruit profile and will pair well with spicy cuisine such as Indian or Thai.",
+    "price": 17.0,
+    "title": "Protopapas 2007 Traminer (Greece)"
+  },
+  {
+    "country": "US",
+    "description": "Ripe and powerful in blackberry, cherry, cassis and sweet oak flavors, with a spicy finish, this blend, which is mostly Cabernet Sauvignon, also is potent in tannins. It's a complex, nuanced wine, but is really too astringent for current consumption. Give it at least six years and try again.",
+    "price": 50.0,
+    "title": "Clos La Chance 2007 JoLi Estate Vineyard Meritage (Central Coast)"
+  },
+  {
+    "country": "Spain",
+    "description": "Toasty and sweet on the nose, however it's not very complex. Feels juicy and refined, with raisin, fig and date flavors. Long on the finish and chocolaty tasting, with raisin and a lightness of being. Sweet within the style, but not unctuous or candied.",
+    "price": 29.0,
+    "title": "Alvear NV Solera Cream Pedro Xim\u00e9nez (Montilla-Moriles)"
+  },
+  {
+    "country": "Austria",
+    "description": "This intensely perfumed, delicate style, with some tight tannins from the fruit, is full of red currant and plum skin tannins, lifted by fresh acidity and finished with hedgerow fruit flavors.",
+    "price": 40.0,
+    "title": "Zull 2004 Pinot Noir (Nieder\u00f6sterreich)"
+  },
+  {
+    "country": "US",
+    "description": "Made from Merlot, Cabernet Sauvignon and Cabernet Franc grown in the warm Happy Canyon region of the valley, this shows the greatness of the 2007 vintage. It's ready to drink, bearing soft, gentle tannins that frame flavors of blackberry and cherry jam, chocolate, vanilla and sweet, smoky oak.",
+    "price": 42.0,
+    "title": "Happy Canyon Vineyard 2007 Barrack Brand Merlot (Santa Ynez Valley)"
+  },
+  {
+    "country": "Italy",
+    "description": "Dark-skinned berry, scorched earth, clove, worn leather and oak-driven spice scents present themselves to the nose. The firm palate offers dried black cherry, roasted coffee bean, vanilla and a green note of powdered sage alongside close-grained tannins that grip the finish and leave an astringent, tongue-drying finish.",
+    "price": 45.0,
+    "title": "Castelli del Grevepesa 2011 Castello di Bibbione Gran Selezione  (Chianti Classico)"
+  },
+  {
+    "country": "Portugal",
+    "description": "A perfumed wine with soft tannins and juicy red fruits, this offers a concentrated aftertaste, giving spice as well as fruitiness. Drink this accessible wine now.",
+    "price": 30.0,
+    "title": "Rui Roboredo Madeira 2012 Castello d'Alba Limited Edition Red (Douro)"
+  },
+  {
+    "country": "Italy",
+    "description": "Vintner Gaetano Bertani delivers a dark and delicious Amarone with bright fruit tones, loads of dried spice, leather and tobacco. The wine presents a soft, sweet sensation in the mouth thanks to its chewy tannins and fruity finish.",
+    "price": 75.0,
+    "title": "Tenuta Santa Maria alla Pieve 2006  Amarone della Valpolicella"
+  },
+  {
+    "country": "US",
+    "description": "Mellow, smooth and lightly spicy, this wine is well balanced and polished. It shows lots of berry flavors plus a bit of cedar and cinnamon while cleansing the palate with good fruit acidity and light tannins.",
+    "price": 19.0,
+    "title": "Enotria 2012 Barbera (Mendocino County)"
+  },
+  {
+    "country": "Argentina",
+    "description": "Lightly stewed, tomatoey aromas belie how angular and acidic this Malbec is. Sharp is the word that best describes the mouthfeel, while tart plum and currant flavors finish with drawing acidity.",
+    "price": 15.0,
+    "title": "Cruz Alta 2010 Grand Reserve Malbec (Mendoza)"
+  },
+  {
+    "country": "US",
+    "description": "This is a quiet, subtle and deliciously crafted white, moderate in acidity, that presents as crisp and dry. Meyer lemon shines brightest, providing a refreshing complexity as stony minerality adds texture.",
+    "price": 30.0,
+    "title": "MacLaren 2016 Lee's Sauvignon Blanc (Dry Creek Valley)"
+  },
+  {
+    "country": "Italy",
+    "description": "Aromas of orchard fruit, chopped herb and a whiff of toasted nut emerge on this medium-bodied white. On the bright palate, bitter almond adds interest to Bartlett pear and lemon zest.",
+    "price": 35.0,
+    "title": "Le Morette 2013 Riserva  (Lugana)"
+  },
+  {
+    "country": "Italy",
+    "description": "Still youthful, it shows aromas of fragrant white flowers, stone fruit and pear. The juicy, lively palate delivers golden apples, yellow peach, almond and hints of aromatic herbs alongside fresh acidity. It boasts balance and finesse. Drink now through 2016.",
+    "price": 26.0,
+    "title": "Olivini 2011 Demesse Vecchie  (Lugana)"
+  },
+  {
+    "country": "US",
+    "description": "Sourced from Klipsun and Ciel du Cheval, this includes 12% Cabernet Sauvignon in the mix. The lighter vintage brings out raspberry and pomegranate fruit flavors, and the wine has excellent focus and penetrating minerality. Still quite young, it will certainly benefit from further bottle age.",
+    "price": 48.0,
+    "title": "Sparkman 2011 Ruckus Syrah (Red Mountain)"
+  },
+  {
+    "country": "France",
+    "description": "Packed with attractive red-berries and citrus, this is a warm and ripe wine. It is totally dominated by its fruitiness and by the Syrah that brings a perfumed character to this fine ap\u00e9ritif wine. Drink now.",
+    "price": 20.0,
+    "title": "Mirabeau 2016 Ros\u00e9 (C\u00f4tes de Provence)"
+  },
+  {
+    "country": "Italy",
+    "description": "Made with air dried grapes, this fruity blend of Merlot, Cabernet Sauvignon and Corvina (a native grape of Veneto, northern Italy) opens with raw notes of cherry, blackberry and exotic spice. It's smooth and rich with a powerful blast of cherry on the close.",
+    "price": 20.0,
+    "title": "Pasqua 2006 Le Soraie Red (Rosso del Veronese)"
+  },
+  {
+    "country": "France",
+    "description": "This wine is tight, crisp with citrus flavors and intense acidity. It is developing into a refreshing, broader wine that will have a riper character. Wait until late 2017.",
+    "price": 12.0,
+    "title": "Ch\u00e2teau de Marsan 2016  Bordeaux Blanc"
+  },
+  {
+    "country": "South Africa",
+    "description": "Made from 70% Chardonnay and 30% Pinot Noir, this is clean yet nuanced, with subtle suggestions of strawberry hull and freshly picked herbs to the white peach and Key lime core. Medium weight, with a mouthwatering finish; drink now.",
+    "price": 15.0,
+    "title": "Haute Cabri\u00e8re 2010 Chardonnay-Pinot Noir White (Franschhoek)"
+  },
+  {
+    "country": "US",
+    "description": "This Cab is in a somewhat awkward state now, poised between fresh blackberry and cherry fruit and mature notes of dried fruits and mushrooms. That tension lends it interest. The grapes come from Calistoga and Carneros, which also gives a dynamic play between lushness and acidity. It's a fine, stylish wine for drinking now\u20132017.",
+    "price": 50.0,
+    "title": "Clos Pegase 2009 Cabernet Sauvignon (Napa Valley)"
+  },
+  {
+    "country": "Spain",
+    "description": "Mazuelo is almost always a blending grape for a reason: it's limited in depth and weighty. So it's no surprise that this opens with leather, prune and bullish jam and liqueur aromas. The palate, however, is kind of sharp and lacking depth, while the flavor profile is juicy, herbal and folds in cassis and berry. Snappy and acidic for an expensive varietal wine.",
+    "price": 95.0,
+    "title": "Dinast\u00eda Vivanco 2007 Colecci\u00f3n Vivanco Parcelas de Mazuelo  (Rioja)"
+  },
+  {
+    "country": "Italy",
+    "description": "Mature plum, vanilla, toast and toasted oak sensations lead the nose. The palate opens with juicy black cherry and plum layered with coffee, dense chocolate and bitter espresso that slightly diminish the impact of its Nebbiolo pedigree and purity. It's already accessible but should also age well.",
+    "price": 48.0,
+    "title": "Giribaldi 2010  Barolo"
+  },
+  {
+    "country": "Portugal",
+    "description": "A lean, structured wine, with dense tannins, jammy fruit and dark berry flavors. The wood comes through strongly, offering high spice, and giving the wine a dry core.",
+    "price": 24.0,
+    "title": "Symington Family Estates 2006 Altano Reserva Red (Douro)"
+  },
+  {
+    "country": "Argentina",
+    "description": "Sweet aromas of black raisin and licorice are a good indicator of what's to come. This is one thick, jammy, softer-bodied wine that's ready to drink now. Flavors of saturated blackberry, mocha and black pepper are attractive, and the finish ends with molasses sweetness and espresso bitterness.",
+    "price": 80.0,
+    "title": "O. Fournier 2004 Syrah (Uco Valley)"
+  }
+]

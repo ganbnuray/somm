@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![Somm Repo Banner](/public/banner.png)
+# 🍷Somm🍷
 
-## Getting Started
+> Since 1969, only 279 people have become Master Sommeliers, highlighting the difficulty of the exam. Our AI sommelier, powered by RAG (Retrieval-Augmented Generation), makes it easier by giving you wine recommendations based on your taste. Whether you’re a wine expert or just enjoy a glass now and then, we’ll help you find the perfect bottle.
+## Inspiration
 
-First, run the development server:
+After watching Somm (2012), a documentary about master sommeliers and their examination process, I was inspired to create a RAG chatbot that could identify wines the user would like, just like a master sommelier.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Installation
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Online
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+You can use the live site at [Somm](https://sommelierai.vercel.app/).
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Local
 
-## Learn More
+To run the project locally, follow these steps:
 
-To learn more about Next.js, take a look at the following resources:
+1. **Clone the repository**:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+   ```bash
+   git clone https://github.com/ganbnuray/Somm.git
+   cd somm
+   ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+2. **Run the development server**:
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   # or
+   pnpm dev
+   # or
+   bun dev
+   ```
+3. **Open your browser**:
+   Navigate to http://localhost:3000 to see the result.
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Tech Stack
+- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white): Sampling the Kaggle wine reviews data
+- ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54): Creating vector embeddings
+- ![Pinecone](https://img.shields.io/badge/Pinecone-ffffff?style=flat&logo=pinecone&logoColor=black): Storing vector embeddings
+- ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white): UI components
+- ![OpenAI](https://img.shields.io/badge/OpenAI-00A67E.svg?style=flat&logo=openai&logoColor=white): API calls & generating chat responses
+- ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) and ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB): Functionalities and routing
+- ![Clerk](https://img.shields.io/badge/clerk-%23000000.svg?style=flat&logo=clerk&logoColor=purple): User login & signups
+- ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white): Deployment

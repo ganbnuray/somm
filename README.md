@@ -53,6 +53,6 @@ To run the project locally, follow these steps:
   
   [Kaggle Notebook for Sampling](https://www.kaggle.com/code/nurayganbarova/wine-sampling/notebook)
 
-Note: Given the substantial volume of data, I utilized a random sampling approach to manage and use it effectively for this project.
+Note: Given the substantial volume of data, I utilized a random sampling approach to get 100 wines to manage and use it effectively for this project.
 
   

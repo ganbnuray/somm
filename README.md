@@ -6,6 +6,9 @@
 
 After watching Somm (2012), a documentary about master sommeliers and their examination process, I was inspired to create a RAG chatbot that could identify wines the user would like, just like a master sommelier. Finding a dataset that aligned with this exact inspiration was the starting point for my project.
 
+## Demo
+
+You can watch the demo video (sommdemo.mp4) in the public directory. Alternatively you can watch it in Youtube [here](https://youtu.be/S0NZxtXVKHw).
 ## Installation
 
 ### Online
